@@ -1,0 +1,11 @@
+# Host-only material: keep outside this public repository.
+/private/
+/archive/
+plugin.zip
+hk-startup-show.zip
+original-topics.txt
+original-skill.md
+.env
+.env.*
+.DS_Store
+__pycache__/
